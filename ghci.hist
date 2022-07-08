@@ -1,0 +1,11 @@
+:main
+:r
+:l experiment/Main.hs
+:q
+:main
+:r
+:l experiment/Main.hs
+:main
+:l experiment/Main.hs
+main
+:l experiment/Main.hs 

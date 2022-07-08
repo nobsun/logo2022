@@ -41,6 +41,12 @@ executables:
     dependencies:
     - logo2022
 
+  experiment:
+    main:                Main.hs
+    source-dirs:         experiment
+    dependencies:
+    - logo2022
+
 tests:
   logo2022-test:
     main:                spec.hs
